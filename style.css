@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+    border: 1px solid;
+    width: 750px;
+    height: 1000px;
+}
+
+hr {
+    width: 725px;
+}
+
+h1 {
+    height: 60px;
+    margin-top: 0px; 
+    text-align: center;
+    margin: 10px;
+    background-color: rgb(26, 109, 29);
+}
+
+h3 {
+    margin-top: 0px;
+    text-indent: 15px;
+    background-color: rgb(26, 109, 29);
+}
+
+#imagem {
+    width: 325px;
+    border-radius: 10px;
+    float: left;
+    margin: 0 0 0 10px;  
+}
+
+#info-cabecalho {
+    float: right;
+    width: 387px;
+    height: 198px;
+    margin: 0 10px 0 0;  
+    text-align: center;
+    margin-left: 5px;
+    text-align: left;
+}
+
+#corpo-infos {
+    margin: 10px;
+    height: 500px;
+}
+
+.infos {
+    height: 150px;
+}
